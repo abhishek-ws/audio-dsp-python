@@ -6,8 +6,8 @@ import sounddevice as sd
 import soundfile as sf
 from scipy.io import wavfile
 
-noise_file = "../../audios/noise.wav"
 # music_file = "../audios/duke.wav"
+noise_file = "../../audios/noise.wav"
 music_file = "../../audios/voice.wav"
 
 # Load the audio signal
